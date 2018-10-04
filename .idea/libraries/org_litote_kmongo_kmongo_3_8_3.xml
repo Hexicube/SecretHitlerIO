@@ -1,0 +1,73 @@
+<component name="libraryTable">
+  <library name="org.litote.kmongo:kmongo:3.8.3" type="repository">
+    <properties maven-id="org.litote.kmongo:kmongo:3.8.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-3.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-core-3.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mongodb-driver-3.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bson-3.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mongodb-driver-core-3.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-property-3.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-data-3.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-jackson-mapping-3.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-shared-3.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-id-3.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-reflect-1.2.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-id-jackson-3.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-jackson-modules-service-loader-3.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bson4jackson-2.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-module-kotlin-2.9.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.9.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.9.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-1.2.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-common-1.2.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-3.8.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-core-3.8.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mongodb-driver-3.8.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bson-3.8.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mongodb-driver-core-3.8.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-property-3.8.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-data-3.8.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-jackson-mapping-3.8.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-shared-3.8.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-id-3.8.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-reflect-1.2.70-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-id-jackson-3.8.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-jackson-modules-service-loader-3.8.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bson4jackson-2.9.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-module-kotlin-2.9.7-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.9.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.9.7-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.9.7-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-1.2.70-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-common-1.2.70-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-13.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-core-3.8.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mongodb-driver-3.8.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bson-3.8.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mongodb-driver-core-3.8.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-property-3.8.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-data-3.8.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-jackson-mapping-3.8.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-shared-3.8.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-id-3.8.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-reflect-1.2.70-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-id-jackson-3.8.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmongo-jackson-modules-service-loader-3.8.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bson4jackson-2.9.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-module-kotlin-2.9.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.9.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.9.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.9.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-1.2.70-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-common-1.2.70-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-13.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
